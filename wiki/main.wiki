@@ -1,0 +1,48 @@
+#summary One-sentence summary of this page.
+
+= System Core : Hackers unleashed Wiki =
+
+Welcome to our wiki page.
+Here is a small menu to what we may need.
+<table border="1" cellpadding="10" cellspacing="2">
+   <tr >
+      <td align="center">*ideas*</td>
+      <td align="center">*Coading*</td>
+   </tr>
+   <tr valign="top">
+     <td>
+ * [[dev-gp|Gameplay]]
+  * [[dev-gp-Multiplayer|Multiplayer]]
+  * [[dev-gp-missions|Missions]]
+  * [[dev-gp-levelsys|Level System]]
+  * [[dev-gp-factions|Fractions]]
+ * [[dev-serv|Servers]]
+  * [[dev-serv-software|Software]]
+  * [[dev-serv-hardware|Hardware ]]
+ * [[dev-os|Operating system]]
+  * [[dev-os-Windows|Windows]]
+  * [[dev-os-Linux|Linux]] 
+ * [[ dev-GUI|GUI]]
+ * [[dev-Programs |Programs ]]
+    </td>
+    <td>
+ *[[dev-Model| Model]]
+  *database
+ *
+    </td>
+   </tr>
+</table>
+
+
+----
+
+== Description of System Core ==
+System Core will be developed in Java. The game will include multiplayer and some missions.
+The GUI  is made with the thought that it should be easy, and with as many options as possible.
+
+As the primary way to hack, we'll create a command prompt for commands, and this must parse respectively Windows and Linux commands depending on the chosen system.
+
+There will be put a lot of work in the hacking programs and perhaps later some small games inside System Core.
+
+System Core will be based on a level system, so new users should start low and work themselves up, after which they have better systems and programs.
+To get properly started designing the game, there must be proper consideration of servers, software, hardware, missions, GUI, and many more things.
