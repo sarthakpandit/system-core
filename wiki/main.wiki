@@ -12,7 +12,7 @@ Here is a small menu to what we may need.
    <tr valign="top">
      <td>
  * Gameplay
-  * Multiplayer
+  * [Multiplayer]
   * Missions
   * Level System
   * Fractions
