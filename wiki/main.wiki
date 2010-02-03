@@ -11,22 +11,22 @@ Here is a small menu to what we may need.
    </tr>
    <tr valign="top">
      <td>
- * [ dev-gp Gameplay]
-  * [ dev-gp-Multiplayer Multiplayer]
-  * [ dev-gp-missions Missions]
-  * [ dev-gp-levelsys Level System]
-  * [ dev-gp-factions Fractions]
- * [ dev-serv Servers]
-  * [ dev-serv-software Software]
-  * [ dev-serv-hardware Hardware ]
- * [ dev-os Operating system]
-  * [ dev-os-Windows Windows]
-  * [ dev-os-Linux Linux] 
- * [ dev-GUI  GUI ]
- * [ dev-Programs Programs ]
+ * [ Gameplay]
+  * [ Multiplayer]
+  * [ Missions]
+  * [ Level System]
+  * [ Fractions]
+ * [ Servers]
+  * [ Software]
+  * [ Hardware ]
+ * [ Operating system]
+  * [ Windows]
+  * [ Linux] 
+ * [ GUI ]
+ * [ Programs ]
     </td>
     <td>
-     * [ dev-Model Model]
+     * [ Model]
       * database
      *
     </td>
