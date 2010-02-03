@@ -4,7 +4,7 @@
 
 Welcome to our wiki page.
 Here is a small menu to what we may need.
-<table border="1" cellpadding="10" cellspacing="2">
+<table border="1" cellpadding="5">
    <tr >
       <td align="center">*ideas*</td>
       <td align="center">*Coading*</td>
@@ -26,9 +26,9 @@ Here is a small menu to what we may need.
  * [[dev-Programs |Programs ]]
     </td>
     <td>
- *[[dev-Model| Model]]
-  *database
- *
+     * [[dev-Model| Model]]
+      * database
+     *
     </td>
    </tr>
 </table>
