@@ -24,11 +24,11 @@ Here is a small menu to what we may need.
   * [Windows]
   * [Linux]
  * [GUI]
- * [Programs ]
+ * [Programs]
     </td>
     <td>
-     * Model
-      * database
+     * [Model]
+      * [database]
      *
     </td>
    </tr>
