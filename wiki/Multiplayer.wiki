@@ -1,0 +1,5 @@
+=Multiplayer=
+
+The actual multiplayer part is a bit special because you have to hack each other while being able to join a group to hack a virtual server. 
+Another thing about the multiplayer part is that the servers, which clients must be connected to,  can connect to other servers with multiple users so you get a bigger network when more servers are connected.
+The only problem with connecting several servers is the heavy load on the physical network when for example 200 users on one server are connected to another server with the same amount of users that will generate a lot of traffic.  
