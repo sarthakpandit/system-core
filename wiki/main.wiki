@@ -11,22 +11,22 @@ Here is a small menu to what we may need.
    </tr>
    <tr valign="top">
      <td>
- *  Gameplay
-  *  Multiplayer
-  *  Missions
-  *  Level System
-  *  Fractions
- *  Servers
-  *  Software
-  *  Hardware 
- *  Operating system
-  *  Windows
-  *  Linux
- *  GUI 
- *  Programs 
+ * Gameplay
+  * Multiplayer
+  * Missions
+  * Level System
+  * Fractions
+ * Servers
+  * Software
+  * Hardware 
+ * Operating system
+  * Windows
+  * Linux
+ * GUI 
+ * Programs 
     </td>
     <td>
-     *  Model
+     * Model
       * database
      *
     </td>
