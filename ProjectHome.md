@@ -1,0 +1,1 @@
+The purpose of this game is to do something different and create a multi player virtual hacking game where you are against each other and with each other criss-crossing. The game will be based on a level system, so new users should start low and work up, after which they have better systems and programs.
